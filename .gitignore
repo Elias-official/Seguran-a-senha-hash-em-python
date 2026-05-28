@@ -1,4 +1,4 @@
-```gitignore
+```gitignore id="04qehs"
 # ambiente virtual
 .venv/
 
@@ -9,8 +9,6 @@ __pycache__/
 # pycharm
 .idea/
 
-# arquivos do sistema
-.DS_Store
-Thumbs.db
+# arquivos locais
+senhas.txt
 ```
-
